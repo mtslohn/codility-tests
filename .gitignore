@@ -1,3 +1,11 @@
-.idea/
+# Maven
 target/
+
+# IntelliJ
+.idea/
 *.iml
+
+# VS Code and plugins
+.project
+.settings/
+.classpath
